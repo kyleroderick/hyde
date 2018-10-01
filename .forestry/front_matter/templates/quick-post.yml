@@ -1,0 +1,18 @@
+---
+label: Quick Post
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Title
+- type: datetime
+  name: date
+  label: Date
+  config:
+    required: true
+- type: text
+  default: post
+  label: Layout
+  name: layout
+  hidden: true
