@@ -16,3 +16,5 @@ fields:
   label: Layout
   name: layout
   hidden: true
+pages:
+- _posts/new-post.md
