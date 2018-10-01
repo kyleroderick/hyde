@@ -1,5 +1,5 @@
 ---
-title: Hyde
+title: Kyle
 timezone: UTC
 collections:
   posts:
@@ -11,17 +11,15 @@ collections:
 markdown: redcarpet
 highlighter: pygments
 permalink: pretty
-relative_permalinks: true
-tagline: A Jekyll theme
-description: A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a>
-  theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo"
-  target="_blank">@mdo</a>.
-url: http://hyde.getpoole.com
+tagline: Cold Pizza Online is a blog by Kyle Roderick
+description: Product at <a href="http://untappd.com" target="_blank">Untappd</a> and
+  Podcaster at <a href="https://goodstuff.fm" target="_blank">Goodstuff</a>.
+url: https://coldpizza.online
 baseurl: "/"
 author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
+  name: Kyle Roderick
+  url: https://mastodon.social/@kyle
 paginate: 5
-version: 2.1.0
+version: 0.1
 github:
   repo: https://github.com/poole/hyde
