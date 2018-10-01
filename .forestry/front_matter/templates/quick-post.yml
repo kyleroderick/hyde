@@ -17,5 +17,5 @@ fields:
   name: layout
   hidden: true
 pages:
-- _posts/2018-10-01-new-post.md
 - _posts/another-test.md
+- _posts/2018-10-01-new-post.md
