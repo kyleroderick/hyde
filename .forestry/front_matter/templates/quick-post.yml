@@ -17,4 +17,4 @@ fields:
   name: layout
   hidden: true
 pages:
-- _posts/new-post.md
+- _posts/2018-10-01-new-post.md
