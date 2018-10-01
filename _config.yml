@@ -1,25 +1,25 @@
-# Dependencies
-markdown:         redcarpet
-highlighter:      pygments
-
-# Permalinks
-permalink:        pretty
-
-# Setup
-title:            Kyle
-tagline:          'Cold Pizza Online is a blog by Kyle Roderick'
-description:      'Product at <a href="http://untappd.com" target="_blank">Untappd</a> and Podcaster at <a href="https://goodstuff.fm" target="_blank">Goodstuff</a>.'
-url:              https://coldpizza.online
-baseurl:          /
-
+---
+title: Kyle
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+markdown: redcarpet
+highlighter: pygments
+permalink: pretty
+tagline: Cold Pizza Online is a blog by Kyle Roderick
+description: Product at <a href="http://untappd.com" target="_blank">Untappd</a> and
+  Podcaster at <a href="https://goodstuff.fm" target="_blank">Goodstuff</a>.
+url: https://coldpizza.online
+baseurl: "/"
 author:
-  name:           'Kyle Roderick'
-  url:            https://mastodon.social/@kyle
-
-paginate:         5
-
-# Custom vars
-version:          0.1
-
+  name: Kyle Roderick
+  url: https://mastodon.social/@kyle
+paginate: 5
+version: 0.1
 github:
-  repo:           https://github.com/poole/hyde
+  repo: https://github.com/poole/hyde
