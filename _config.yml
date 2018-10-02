@@ -1,5 +1,5 @@
 ---
-title: ❄️🍕.🖥️
+title: coldpizza.online
 timezone: UTC
 collections:
   posts:
@@ -11,11 +11,13 @@ collections:
 markdown: redcarpet
 highlighter: pygments
 permalink: pretty
-tagline: Words written by Kyle Roderick
-description: Words written by Kyle Roderick
+tagline: Posts by Kyle Roderick
+description: Posts by Kyle Roderick
 url: https://coldpizza.online
 twitter: https://twitter.com/hopburps
 mastodon: https://mastodon.social/@kyle
+podcasts: https://goodstuff.fm
+baseurl: /
 author:
   name: Kyle Roderick
   url: https://mastodon.social/@kyle
