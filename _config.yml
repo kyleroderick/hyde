@@ -11,10 +11,11 @@ collections:
 markdown: redcarpet
 highlighter: pygments
 permalink: pretty
-tagline: Cold Pizza Online is a blog by Kyle Roderick
-description: Product at <a href="http://untappd.com" target="_blank">Untappd</a> and
-  Podcaster at <a href="https://goodstuff.fm" target="_blank">Goodstuff</a>.
+tagline: Words written by Kyle Roderick
+description: Words written by Kyle Roderick
 url: https://coldpizza.online
+twitter: https://twitter.com/hopburps
+mastodon: https://mastodon.social/@kyle
 author:
   name: Kyle Roderick
   url: https://mastodon.social/@kyle
