@@ -17,6 +17,7 @@ fields:
   name: layout
   hidden: true
 pages:
+- _posts/paris-monster---moles.md
 - _posts/2018-10-03-show-me-your-mic-#118.md
 - _posts/2018-10-02-airpods-on-android.md
 - _posts/2018-10-02-groundcherries.md
