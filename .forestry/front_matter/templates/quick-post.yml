@@ -17,6 +17,7 @@ fields:
   name: layout
   hidden: true
 pages:
+- _posts/satellite-internet-is-a-bust.md
 - _posts/2018-10-03-drinking-socially-#31.md
 - _posts/2018-10-03-paris-monster---moles.md
 - _posts/2018-10-03-show-me-your-mic-#118.md
