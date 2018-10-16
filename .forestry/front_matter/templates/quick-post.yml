@@ -16,6 +16,9 @@ fields:
   label: Layout
   name: layout
   hidden: true
+- type: tag_list
+  name: tags
+  label: Tags
 pages:
 - _posts/2018-10-10-drinking-socially-32.md
 - _posts/2018-10-07-morning-show-399.md
