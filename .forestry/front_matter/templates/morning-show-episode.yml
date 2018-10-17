@@ -39,3 +39,5 @@ fields:
   config:
     source:
       type: documents
+pages:
+- morningshow/test.md
