@@ -23,5 +23,6 @@ author:
   url: https://mastodon.social/@kyle
 paginate: 5
 version: 0.1
+future: false
 plugins:
   - jekyll-feed
