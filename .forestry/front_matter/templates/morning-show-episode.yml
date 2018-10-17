@@ -38,7 +38,8 @@ fields:
   name: explicit
   label: Explicit
 - type: file
-  name: image
-  label: Episode Artwork
+  name: artwork
+  label: Replace Artwork
+  description: This is displayed only in podcast players that support episode artwork
 pages:
 - morningshow/test.md
