@@ -41,5 +41,9 @@ fields:
   name: artwork
   label: Replace Artwork
   description: This is displayed only in podcast players that support episode artwork
+- type: file
+  name: image
+  label: Social Image
+  description: Recommended size is 1012w by 506h
 pages:
 - morningshow/test.md
