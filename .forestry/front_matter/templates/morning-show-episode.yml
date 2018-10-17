@@ -1,0 +1,41 @@
+---
+label: Morning Show Episode
+hide_body: false
+is_partial: false
+fields:
+- type: datetime
+  label: Publishing Date
+  name: date
+  description: in Pacific Time (US & Canada) timezone
+  config:
+    required: true
+- type: text
+  name: description
+  label: Episode Summary
+- type: text
+  name: show
+  label: Show
+  default: morningshow
+  hidden: true
+- type: text
+  name: layout
+  label: layout
+  hidden: true
+  default: episode
+- type: number
+  name: episode
+  label: Episode Number
+  config:
+    min: '1'
+    step: '1'
+    required: true
+- type: boolean
+  name: explicit
+  label: Explicit
+- type: file
+  name: image
+  label: Episode Artwork
+- type: select
+  config:
+    source:
+      type: documents
