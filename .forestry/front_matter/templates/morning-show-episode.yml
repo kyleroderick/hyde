@@ -45,5 +45,3 @@ fields:
   name: image
   label: Social Image
   description: Recommended size is 1012w by 506h
-pages:
-- morningshow/test.md

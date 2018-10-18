@@ -4,11 +4,6 @@ auto_deploy: true
 admin_path: "/admin/"
 webhook_url: 
 sections:
-- type: directory
-  path: morningshow
-  label: Morning Show
-  create: documents
-  match: "**/*"
 - type: jekyll-posts
   label: Posts
   create: all
